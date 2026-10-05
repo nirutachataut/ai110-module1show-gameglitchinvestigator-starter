@@ -12,10 +12,9 @@ Document at least 3 bugs you found. Add rows as needed.
 
 | Input | Expected Behavior | Actual Behavior | Console Output / Error |
 |-------|-------------------|-----------------|------------------------|
-
-| Guess higher than the secret number| Game should say the guess is too high and tell me to go lower| Game said "Too High" but told me to go higher| No console error|
-| Selected Hard difficulty with range 1–50 and started a new game| Secret number should be between 1 and 50| Developer Debug Info showed a secret number of 98| No console error|
-| Started the game without making a guess| Attempts used should start at 0|The game started with the attempt counter already at 1 |No console error|
+| Guess higher than the secret number | Game should say the guess is too high and tell me to go lower | Game said "Too High" but told me to go higher | No console error |
+| Selected Hard difficulty with range 1–50 and started a new game | Secret number should be between 1 and 50 | Developer Debug Info showed a secret number of 98 | No console error |
+| Started the game without making a guess | Attempts used should start at 0 | The game started with the attempt counter already at 1 | No console error |
 
 ---
 

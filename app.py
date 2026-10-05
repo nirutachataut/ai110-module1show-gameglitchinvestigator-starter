@@ -2,6 +2,7 @@ import random
 
 import streamlit as st
 
+# FIX: check_guess and parse_guess were refactored into logic_utils.py with Copilot assistance; the diff was reviewed, and the app was tested afterward.
 from logic_utils import check_guess, parse_guess
 
 
